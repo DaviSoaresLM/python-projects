@@ -12,6 +12,11 @@ Cada projeto está organizado em sua própria pasta, com código-fonte e estrutu
 Uma calculadora de terminal com operações básicas: soma, subtração, multiplicação e divisão.
 > 💬 **Observação:** Ideal para iniciantes que estão aprendendo entrada de dados, funções e controle condicional.
 
+### 🏦 [conta-terminal](./conta-terminal/)
+Sistema bancário simples via terminal que permite criar uma conta informando nome do titular, agência, número da conta e saldo inicial com validação de entrada.  
+> 💬 **Observação:** Excelente para iniciantes que querem praticar entrada de dados, loops e tratamento de erros simples.
+
+
 
 ### 📊 [anime-dashboard](./anime-dashboard/) *(em breve)*
 Um dashboard interativo que mostra a popularidade de animes usando **Dash** e **Plotly**.  
