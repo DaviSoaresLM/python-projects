@@ -22,7 +22,7 @@ Foco em visualização de dados, filtros dinâmicos e boas práticas com gráfic
 
 ### 🗃️ [py-sql-study](./py-sql-study/) *(em breve)*  
 Exemplos práticos de integração entre Python e bancos de dados SQL, usando `sqlite3` e `SQLAlchemy`.  
-Inclui CRUD básico, ORM e comandos diretos em SQL.
+Incluirá CRUD básico, ORM e comandos diretos em SQL.
 
 ---
 
